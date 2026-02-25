@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là Cao Nguyên Vũ
+# 👋 Hello, I'm Cao Nguyen Vu
 
 **AI Engineer | LLM Systems Specialist | Computer Vision Developer**
 
@@ -9,15 +9,15 @@
 
 ---
 
-## 🎯 Về Tôi
+## 🎯 About Me
 
-Kỹ sư AI có kinh nghiệm trong việc phát triển các giải pháp AI **production-grade** trên quy mô lớn. Chuyên môn trong xây dựng **hệ thống LLM** và **hệ thống Computer Vision** được triển khai thực tế, mang lại giá trị kinh doanh đo lường được.
+Dedicated AI Engineer with proven expertise in developing **production-grade AI solutions** at scale. Specialized in building **LLM Systems** and **Computer Vision Systems** deployed in real-world environments, delivering measurable business impact.
 
-Hiện đang công tác tại **Vietnam DFT Technology JSC** với trách nhiệm chính là phát triển và triển khai các giải pháp AI cho các doanh nghiệp khác nhau.
+Currently working at **Vietnam DFT Technology JSC** as a Lead AI Engineer, responsible for developing and deploying enterprise AI solutions for diverse clients across healthcare, manufacturing, and enterprise sectors.
 
 ---
 
-## 🛠️ Kỹ Năng Kỹ Thuật
+## 🛠️ Technical Skills
 
 ### 🤖 AI/Machine Learning
 - **LLM Technologies**: RAG, Fine-tuning (QLoRA), Prompt Engineering, Vision-Language Models
@@ -25,8 +25,8 @@ Hiện đang công tác tại **Vietnam DFT Technology JSC** với trách nhiệ
 - **Document AI**: Table Extraction, OCR, Formula Recognition, Multi-modal Understanding
 - **ML Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
 
-### 💻 Lập Trình
-- **Ngôn ngữ**: Python, C++, Java, R, GAML
+### 💻 Programming
+- **Languages**: Python, C++, Java, R, GAML
 - **Frontend**: React, HTML/CSS, JavaScript, Streamlit
 - **Backend**: FastAPI, Flask, RESTful APIs, MCP, A2A
 - **Database**: PostgreSQL, MongoDB, Qdrant (Vector DB)
@@ -37,115 +37,116 @@ Hiện đang công tác tại **Vietnam DFT Technology JSC** với trách nhiệ
 - CI/CD Pipelines
 - Git & Version Control
 
-### 📊 Công cụ Chuyên biệt
+### 📊 Specialized Tools
 - GAMA (Simulation)
-- QGIS (GIS)
+- QGIS (Geographic Information Systems)
 - Unity (Game Engine)
 - Big Data Processing & ETL Pipelines
 
 ---
 
-## 💼 Kinh Nghiệm Làm Việc
+## 💼 Professional Experience
 
-### 🏢 Vietnam DFT Technology JSC | *Tháng 10/2024 - Hiện tại*
+### 🏢 Vietnam DFT Technology JSC | *October 2024 - Present*
 **AI Engineer**
 
-Lãnh đạo nhóm phát triển và triển khai các giải pháp AI doanh nghiệp cho nhiều khách hàng. Chuyên biệt trong các hệ thống LLM và Computer Vision cho lĩnh vực sản xuất.
+Leading the development and deployment of enterprise AI solutions for diverse clients. Specializing in LLM systems and computer vision for manufacturing, with focus on production deployment and measurable business outcomes.
 
-**Các dự án nổi bật:**
+**Key Projects:**
 
 **🎖️ Military Technical Institute Chatbot**
-- Phát triển chatbot chuyên biệt phân tích tài liệu quân sự và bản vẽ CAD
-- Thiết kế kiến trúc RAG cho hiểu biết đa dạng phương thức về sơ đồ kỹ thuật
-- **Kết quả**: Triển khai thành công phân tích bản vẽ CAD, giải thích sơ đồ kỹ thuật phức tạp cho các dự án kỹ thuật hạm đội
+- Engineered a specialized chatbot for analyzing confidential military documents and CAD drawings
+- Designed RAG architecture for multi-modal understanding of technical diagrams and mathematical formulas
+- **Impact**: Successfully implemented CAD blueprint analysis, technical diagram interpretation, and complex formula recognition for naval engineering projects
 
 **📊 AI KNOW - Automated Presentation Generator**
-- Xây dựng AI agent được huấn luyện trên 100.000 tệp PowerPoint
-- Tự động tạo bản trình bày chuyên nghiệp cho ngành in ấn Nhật Bản
-- **Kết quả**: Giảm thời gian tạo bản trình bày 70%, cho phép các đội bán hàng phản hồi trong vòng vài giờ thay vì vài ngày
+- Built an AI agent trained on 100,000 PowerPoint files to automatically generate professional presentations for the Japanese printing industry
+- Implemented document understanding and brand-consistent content generation
+- **Impact**: Decreased presentation creation time by 70%, enabling sales teams to respond to client requests within hours instead of days
 
 **🔍 Rix Product Recognition System**
-- Phát triển hệ thống Computer Vision cho quản lý kho tự động và kiểm tra chất lượng
-- Triển khai mô hình Deep Learning phát hiện khiếm khuyết (vết xước, lõm, biến dạng)
-- **Kết quả**: Đạt 95% độ chính xác, giảm thời gian kiểm tra thủ công 60%
+- Developed computer vision system for automated product inventory management and quality inspection
+- Deployed deep learning models to detect defects including scratches, dents, and deformations in manufactured products
+- **Impact**: Achieved 95% accuracy in defect detection, reducing manual inspection time by 60% and minimizing quality control costs
 
 **💬 MobiFone Smart Office Chatbot**
-- Xây dựng chatbot doanh nghiệp được huấn luyện từ dữ liệu 400 trạm MobiFone trên toàn quốc
-- Tích hợp với cơ sở hạ tầng cơ sở dữ liệu hiện có
-- **Kết quả**: Xử lý 10.000+ truy vấn nhân viên hàng ngày, giảm vé IT support 45%
+- Engineered enterprise chatbot trained on dataset from 400 MobiFone stations nationwide
+- Integrated with existing database infrastructure for real-time employee support
+- **Impact**: Handled 10,000+ daily employee queries, reducing IT support tickets by 45% and improving information accessibility
 
-**Các thành tựu khác:**
-- Phát triển các ứng dụng LLM sản xuất xử lý 5TB+ dữ liệu hàng ngày
-- Tạo ra 3.000+ báo cáo KPI tự động
-- Xây dựng và tối ưu hóa các mô hình Deep Learning sử dụng TensorFlow, Keras, PyTorch
+**Additional Achievements:**
+- Developed production LLM applications processing 5TB+ daily data and generating 3,000+ automated KPI reports
+- Built and optimized deep learning models using TensorFlow, Keras, and PyTorch for enterprise deployment
 
 ---
 
-### 🎓 ACROSS Laboratory | *Tháng 7/2024 - Tháng 3/2025*
+### 🎓 ACROSS Laboratory | *July 2024 - March 2025*
 **AI/Simulation Researcher**
 
-Nghiên cứu các dự án giao thông đô thị tập trung vào các giải pháp giao thông bền vững cho Hà Nội.
+Contributed to urban mobility research projects focusing on sustainable transportation solutions for Hanoi, utilizing simulation tools and AI modeling techniques.
 
-**Các dự án:**
-- **Moov'Hanoi**: Dự án giao thông đô thị sử dụng nền tảng GAMA, QGIS, OSM và Python
-- Phát triển các mô hình mô phỏng tối ưu hóa quy hoạch đô thị
-- Đào tạo chuyên biệt tại VIASM về nền tảng toán học cho AI
-- Hợp tác với PRX-Vietnam và Expertise France
+**Projects:**
+- **Moov'Hanoi**: Worked on urban mobility project to improve sustainable transportation in Hanoi using GAMA platform, QGIS, OSM, and Python
+- Developed simulation models for urban planning optimization
+- Received specialized training at VIASM in mathematical foundations for AI and computational modeling
+- Collaborated directly with PRX-Vietnam on project implementation
+- Completed internship at Expertise France focusing on traffic simulation projects
 
 ---
 
-### 👨‍🏫 KBERI Knowledge Bridge Institute | *Tháng 2/2024 - Tháng 11/2024*
+### 👨‍🏫 KBERI Knowledge Bridge Institute | *February 2024 - November 2024*
 **AI Instructor**
 
-Thiết kế và thực hiện các chương trình đào tạo AI cho chuyên gia và sinh viên.
+Conducted AI training programs and seminars for professionals and students, focusing on practical applications of machine learning and AI technologies.
 
-- Thiết kế chương trình giáo dục AI toàn diện, tiếp cận 200+ chuyên gia và sinh viên
-- Dạy các buổi workshop thực hành về ML, Computer Vision, và NLP
-- Hướng dẫn 50+ sinh viên phát triển kỹ năng AI và sự nghiệp
+**Achievements:**
+- Designed comprehensive AI literacy curriculum reaching 200+ professionals and students through seminar series
+- Delivered hands-on workshops covering ML, Computer Vision, and NLP applications
+- Mentored 50+ students in AI career development and technical skill building
 
 ---
 
 ### 🏥 Freelance | *2023*
-**Medical Chatbot Developer - Bệnh viện Phương Đông**
+**Medical Chatbot Developer - Phuong Dong Hospital**
 
 **SVYKHOA - Medical Chatbot for Doctors**
-- Phát triển trợ lý kiến thức y tế cho bác sĩ nội trú
-- Kiến trúc RAG dựa trên 50.000 bài báo nghiên cứu và hướng dẫn lâm sàng
-- **Kết quả**: Cung cấp quyền truy cập 24/7 vào tài liệu y tế cho 200+ bác sĩ trẻ
+- Created medical knowledge assistant for resident physicians using 50,000 research papers and clinical guidelines
+- Implemented RAG architecture for evidence-based medical information retrieval
+- **Impact**: Provided 24/7 instant access to medical literature for 200+ young doctors, improving clinical decision support and post-graduate learning efficiency
 
 ---
 
-## 📚 Học Vấn
+## 📚 Education
 
-| Học vị | Chuyên ngành | Trường | Thời gian |
-|--------|-------------|--------|----------|
-| **Bachelor** | Trí Tuệ Nhân Tạo & Khoa Học Dữ Liệu | Thuy Loi University (TLU) | 2021-2025 |
-| **Bachelor** | Ngôn Ngữ Anh | Hanoi University (HANU) | 2024-Present |
+| Degree | Major | Institution | Period |
+|--------|-------|-------------|--------|
+| **Bachelor** | Artificial Intelligence & Data Science | Thuy Loi University (TLU) | 2021-2025 |
+| **Bachelor** | English Language | Hanoi University (HANU) | 2024-Present |
 
 ---
 
-## 🌐 Ngôn Ngữ
+## 🌐 Languages
 
-| Ngôn Ngữ | Trình Độ |
-|---------|---------|
-| 🇻🇳 Tiếng Việt | Native Speaker |
+| Language | Proficiency |
+|----------|-------------|
+| 🇻🇳 Vietnamese | Native Speaker |
 | 🇬🇧 English | Proficient (Pursuing 2nd degree) |
 | 🇯🇵 Japanese | Basic Conversational |
 | 🇫🇷 French | Basic Conversational |
 
 ---
 
-## 💡 Điểm Mạnh
+## 💡 Core Competencies
 
-✅ **Problem-solving & Analytical Thinking** - Giải quyết các vấn đề phức tạp một cách sáng tạo
+✅ **Problem-solving & Analytical Thinking** - Solving complex problems with creative approaches
 
-✅ **Cross-functional Collaboration & Leadership** - Làm việc hiệu quả với các nhóm đa chức năng
+✅ **Cross-functional Collaboration & Leadership** - Effective teamwork across diverse departments
 
-✅ **Public Speaking & Technical Training** - Trình bày và đào tạo kỹ thuật một cách rõ ràng
+✅ **Public Speaking & Technical Training** - Clear presentation and technical instruction delivery
 
 ---
 
-## 📊 Thống Kê GitHub
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nvcoing&show_icons=true&theme=radical)
 
@@ -153,7 +154,7 @@ Thiết kế và thực hiện các chương trình đào tạo AI cho chuyên g
 
 ---
 
-## 🤝 Liên Hệ
+## 🤝 Get In Touch
 
 - 📧 **Email**: [caovu9523@gmail.com](mailto:caovu9523@gmail.com)
 - 📱 **Phone**: +84 944 876 901
@@ -163,21 +164,21 @@ Thiết kế và thực hiện các chương trình đào tạo AI cho chuyên g
 
 ---
 
-## 📝 Ghi Chú
+## 📝 Open To Collaboration
 
-Tôi luôn quan tâm đến các cơ hội hợp tác trong lĩnh vực AI, đặc biệt là các dự án liên quan đến:
-- 🤖 Hệ thống LLM và Generative AI
-- 👁️ Computer Vision và Document Understanding
-- 🏭 AI for Enterprise Solutions
-- 📊 Nghiên cứu và Phát triển AI
+I'm always interested in opportunities related to:
+- 🤖 LLM Systems and Generative AI
+- 👁️ Computer Vision and Document Understanding
+- 🏭 Enterprise AI Solutions
+- 📊 AI Research and Development
 
-**Hãy liên hệ với tôi nếu bạn có dự án thú vị hoặc cơ hội cộng tác!** 🚀
+**Feel free to reach out if you have an interesting project or collaboration opportunity!** 🚀
 
 ---
 
 <div align="center">
 
-**⭐ Nếu bạn thích profile này, vui lòng cho tôi một ⭐ trên GitHub!**
+**⭐ If you like this profile, please consider giving me a ⭐ on GitHub!**
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nvcoing&color=green)
 
